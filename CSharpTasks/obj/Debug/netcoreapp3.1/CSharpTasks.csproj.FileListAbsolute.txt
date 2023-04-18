@@ -1,0 +1,14 @@
+C:\Users\chaly\Source\Repos\Learn-C-Part1-LeetCode\CSharpTasks\bin\Debug\netcoreapp3.1\CSharpTasks.exe
+C:\Users\chaly\Source\Repos\Learn-C-Part1-LeetCode\CSharpTasks\bin\Debug\netcoreapp3.1\CSharpTasks.deps.json
+C:\Users\chaly\Source\Repos\Learn-C-Part1-LeetCode\CSharpTasks\bin\Debug\netcoreapp3.1\CSharpTasks.runtimeconfig.json
+C:\Users\chaly\Source\Repos\Learn-C-Part1-LeetCode\CSharpTasks\bin\Debug\netcoreapp3.1\CSharpTasks.runtimeconfig.dev.json
+C:\Users\chaly\Source\Repos\Learn-C-Part1-LeetCode\CSharpTasks\bin\Debug\netcoreapp3.1\CSharpTasks.dll
+C:\Users\chaly\Source\Repos\Learn-C-Part1-LeetCode\CSharpTasks\bin\Debug\netcoreapp3.1\CSharpTasks.pdb
+C:\Users\chaly\Source\Repos\Learn-C-Part1-LeetCode\CSharpTasks\obj\Debug\netcoreapp3.1\CSharpTasks.csproj.AssemblyReference.cache
+C:\Users\chaly\Source\Repos\Learn-C-Part1-LeetCode\CSharpTasks\obj\Debug\netcoreapp3.1\CSharpTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaly\Source\Repos\Learn-C-Part1-LeetCode\CSharpTasks\obj\Debug\netcoreapp3.1\CSharpTasks.AssemblyInfoInputs.cache
+C:\Users\chaly\Source\Repos\Learn-C-Part1-LeetCode\CSharpTasks\obj\Debug\netcoreapp3.1\CSharpTasks.AssemblyInfo.cs
+C:\Users\chaly\Source\Repos\Learn-C-Part1-LeetCode\CSharpTasks\obj\Debug\netcoreapp3.1\CSharpTasks.csproj.CoreCompileInputs.cache
+C:\Users\chaly\Source\Repos\Learn-C-Part1-LeetCode\CSharpTasks\obj\Debug\netcoreapp3.1\CSharpTasks.dll
+C:\Users\chaly\Source\Repos\Learn-C-Part1-LeetCode\CSharpTasks\obj\Debug\netcoreapp3.1\CSharpTasks.pdb
+C:\Users\chaly\Source\Repos\Learn-C-Part1-LeetCode\CSharpTasks\obj\Debug\netcoreapp3.1\CSharpTasks.genruntimeconfig.cache
